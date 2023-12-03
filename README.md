@@ -1,4 +1,2 @@
-Partner 1 is here
-Write something here to let me know that you got access to the repository
-
-I am here
+# PRINTF PROJECT
+This is a project which consists of creating a printf function as the one in C.
