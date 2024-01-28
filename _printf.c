@@ -1,6 +1,6 @@
 #include "main.h"
 
-int my_printf(const char *format, ...)
+int _printf(const char *format, ...)
 {
 int i;
 unsigned int count = 0, s_count = 0, i_count;

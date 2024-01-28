@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
-int my_printf(const char *format, ...);
+int _printf(const char *format, ...);
 int my_putchar(char c);
 int my_puts(char *s);
 char *binary(int b);
